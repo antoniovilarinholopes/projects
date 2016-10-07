@@ -2,11 +2,11 @@
 
 ## Introduction
 
-Once upon a time, Skynet wanted to rule the fashion world and decide for you which clothes you should wear. In order to prevent the fashion Judgment Day, save mankind and probably all the pixels in it, we reprogamed one of Skynets evil fashion killing machines that was sent to dress us from the future. We did this to help us predict the trends and save John COnnor from wearing yellow with pink. It's is up to us to rage against the machines.
+Once upon a time, Skynet wanted to rule the fashion world and decide which clothes you should wear. In order to prevent the fashion Judgment Day, save mankind and probably all the pixels in it, we reprogamed one of Skynets evil fashion killing machines that was sent to dress us from the future. We did this to help us predict the trends and save John COnnor from wearing yellow with pink. It's is up to us to rage against the machines.
 
 ## Description
 
-I can beat the machine consists of analysing the dataset provided by sonae and apply advanced algorithms to predict whether a product will be a "flop". In the train_test dataset we obtained 94% accuracy, with a ROC area of FIXME. Besides these metrics we analysed the confusion matrix and precision.
+I can beat the machine consists of analysing the dataset provided by sonae and apply advanced algorithms to predict whether a product will be a "flop". In the train_test dataset we obtained 94% accuracy, with a ROC area of 90%. Besides these metrics we analysed the confusion matrix and precision.
 
 What did we do?
   * Using weka we performed feature selection (rank with gain info) to decide which features are the most relevant to classify our data.
@@ -24,4 +24,7 @@ To achieve this, we resorted to different tools, namely, weka for feature select
  * António Lopes https://pixels.camp/antoniovilarinholopes
  * Filie Casal https://pixels.camp/fcasal
  * Pedro Adão https://pixels.camp/pedromigueladao
+
+## Other Info
+You can find a kinda up to date results at: https://gist.github.com/xtrm0/9476c8539bdf581d0a7431bc8dc4f7ad
 
